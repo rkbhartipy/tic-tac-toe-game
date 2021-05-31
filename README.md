@@ -1,4 +1,4 @@
 # tic-tac-toe-game
 
-- this is desktop python application based on tkinter freamework
+- this is python desktop application based on tkinter freamework
 - just download and run it 
